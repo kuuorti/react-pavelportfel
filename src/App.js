@@ -1,7 +1,4 @@
 import "./styles/main.css";
-import sun from "./img/icons/sun.svg";
-import moon from "./img/icons/moon.svg";
-
 
 import Navbar from "./components/navbar/Navbar"
 import Header from "./components/header/Header";
